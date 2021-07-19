@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home.nfs/petravo3/ctu-turtle-robot/workspace/devel/.private/task_01_package/setup.sh

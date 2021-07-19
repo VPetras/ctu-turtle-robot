@@ -1,0 +1,5 @@
+task_01_package
+/home.nfs/petravo3/ctu-turtle-robot/workspace/devel/.private/task_01_package/cmake.lock /home.nfs/petravo3/ctu-turtle-robot/workspace/devel/./cmake.lock
+/home.nfs/petravo3/ctu-turtle-robot/workspace/devel/.private/task_01_package/lib/pkgconfig/task_01_package.pc /home.nfs/petravo3/ctu-turtle-robot/workspace/devel/lib/pkgconfig/task_01_package.pc
+/home.nfs/petravo3/ctu-turtle-robot/workspace/devel/.private/task_01_package/share/task_01_package/cmake/task_01_packageConfig.cmake /home.nfs/petravo3/ctu-turtle-robot/workspace/devel/share/task_01_package/cmake/task_01_packageConfig.cmake
+/home.nfs/petravo3/ctu-turtle-robot/workspace/devel/.private/task_01_package/share/task_01_package/cmake/task_01_packageConfig-version.cmake /home.nfs/petravo3/ctu-turtle-robot/workspace/devel/share/task_01_package/cmake/task_01_packageConfig-version.cmake
